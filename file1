@@ -1,4 +1,5 @@
 class A;
  int i, j;
  int faca_edit_1;
+ int master_method(); begin return 2; end
 endclass : A
