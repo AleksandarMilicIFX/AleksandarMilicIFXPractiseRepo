@@ -1,3 +1,4 @@
 class A;
  int i, j;
+ int faca_edit_1;
 endclass : A
