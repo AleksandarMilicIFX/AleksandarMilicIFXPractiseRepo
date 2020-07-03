@@ -1,0 +1,3 @@
+class S2;
+ int j;
+endclass : S2
